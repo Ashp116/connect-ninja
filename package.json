@@ -1,0 +1,14 @@
+{
+  "name": "cn",
+  "version": "0.0.1",
+  "description": "allows to connect discord to Games, give access to stats that show up on discord.",
+  "main": "bot.js",
+  "author": "Ashp116",
+  "license": "ISC",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
