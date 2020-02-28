@@ -9,7 +9,7 @@ var JoinRole = null
 var BotRole = null
 var WelcomechannelId = null
 var BotRole = null
-asdfdsf
+
 // sends a mesg to the console if the bot is ready
 bot.on("ready", async () => {
   console.log(`Bot is ready! ${bot.user.username}`);
